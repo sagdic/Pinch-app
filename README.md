@@ -1,4 +1,4 @@
 # Pinch-app
-DOUBLE TAP GESTURE IMAGE SCALE WITH ANIMATION -- DRAG GESTURE AND RESET IMAGE STATE
+Double Tap Gesture Image Scale With Animation -- Drag Gesture And Reset Image State
 
-LONG PRESS GESTURE -- SF SYMBOL RENDERING MODE -- MAGNIFICATION GESTURE -- DRAWER USER INTERFACE
+Long Press Gesture -- SF Symbol Rendering Mode -- Magnificagtion Gesture -- Drawer User Interface
